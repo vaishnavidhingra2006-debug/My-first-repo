@@ -1,2 +1,24 @@
-# My-first-repo
-This is my test  repository 
+
+<!doctype html>
+<html>
+<head>
+ <title> Vaishnavi blogs</title>
+<style>
+body{
+background-color : #f2f2f2;
+font-family:arial;
+text-align:center;
+}
+h1{
+color:blue;
+}
+p{
+font size:18px;
+}
+</style>
+</head>
+<body>
+<h1> hi this is my first website </h1>
+<p> MY NAME IS VAISHNAVI DHINGRA  </p>
+</body>
+</html>
